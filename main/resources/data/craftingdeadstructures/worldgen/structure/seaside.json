@@ -1,0 +1,17 @@
+{
+  "type": "craftingdeadstructures:multipart",
+  "biomes": "#craftingdeadstructures:has_structure/seaside",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "template": "craftingdeadstructures:seaside",
+  "pieces_x": 2,
+  "pieces_y": 1,
+  "pieces_z": 2,
+  "piece_size": 128,
+  "total_size_x": 164,
+  "total_size_y": 62,
+  "total_size_z": 185,
+  "height_offset": 0,
+  "ocean_floor": false
+}

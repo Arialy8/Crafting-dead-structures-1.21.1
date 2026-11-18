@@ -1,0 +1,7 @@
+{
+  "processors": [
+    {
+      "processor_type": "craftingdeadstructures:structure_randomization"
+    }
+  ]
+}

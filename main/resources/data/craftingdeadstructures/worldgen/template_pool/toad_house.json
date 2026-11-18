@@ -1,0 +1,14 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "craftingdeadstructures:toad_house",
+        "processors": "craftingdeadstructures:structure_randomization",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

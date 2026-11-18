@@ -1,0 +1,23 @@
+{
+  "block.craftingdeadstructures.zombie_spawner_cage": "Crafting Dead Zombie Spawner Cage",
+  "item.craftingdeadstructures.zombie_spawner_cage": "Crafting Dead Zombie Spawner Cage",
+  "block.craftingdeadstructures.civilian_loot_marker": "Marker: Civilian Ground Loot",
+  "block.craftingdeadstructures.medical_loot_marker": "Marker: Medical Ground Loot",
+  "block.craftingdeadstructures.police_loot_marker": "Marker: Police Ground Loot",
+  "block.craftingdeadstructures.rare_civilian_loot_marker": "Marker: Rare Ground Loot",
+  "block.craftingdeadstructures.military_loot_marker": "Marker: Military Ground Loot",
+  "block.craftingdeadstructures.zombie_spawner_marker": "Marker: Basic Spawner",
+  "block.craftingdeadstructures.dangerous_zombie_spawner_marker": "Marker: Dangerous Spawner",
+  "block.craftingdeadstructures.elite_zombie_spawner_marker": "Marker: Elite Spawner",
+  "block.craftingdeadstructures.civilian_container_marker": "Marker: Civilian Container",
+  "block.craftingdeadstructures.medical_container_marker": "Marker: Medical Container",
+  "block.craftingdeadstructures.police_container_marker": "Marker: Police Container",
+  "block.craftingdeadstructures.military_container_marker": "Marker: Military Container",
+  "block.craftingdeadstructures.weapons_container_marker": "Marker: Weapon Container",
+  "command.craftingdeadstructures.status": "Crafting Dead Structures is enabled.",
+  "command.craftingdeadstructures.list": "Available structures: %s",
+  "command.craftingdeadstructures.locate.invalid": "Invalid structure name: %s",
+  "command.craftingdeadstructures.place.missing": "Structure template not found: %s",
+  "command.craftingdeadstructures.place.failed": "Could not place structure: %s",
+  "command.craftingdeadstructures.place.success": "Placed %1$s at %2$s %3$s %4$s"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "craftingdeadstructures:multipart",
+  "biomes": "#craftingdeadstructures:has_structure/sky_island",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "template": "craftingdeadstructures:sky_island",
+  "pieces_x": 2,
+  "pieces_y": 1,
+  "pieces_z": 2,
+  "piece_size": 128,
+  "total_size_x": 181,
+  "total_size_y": 128,
+  "total_size_z": 207,
+  "height_offset": 80,
+  "ocean_floor": false
+}

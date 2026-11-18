@@ -1,0 +1,17 @@
+{
+  "type": "craftingdeadstructures:multipart",
+  "biomes": "#craftingdeadstructures:has_structure/small_city",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "template": "craftingdeadstructures:small_city",
+  "pieces_x": 4,
+  "pieces_y": 1,
+  "pieces_z": 4,
+  "piece_size": 128,
+  "total_size_x": 417,
+  "total_size_y": 101,
+  "total_size_z": 427,
+  "height_offset": 0,
+  "ocean_floor": false
+}

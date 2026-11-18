@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": { "type": "minecraft:uniform", "min": 4, "max": 8 },
+      "entries": [
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:water_bottle", "weight": 18 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:canned_beans", "weight": 15 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:chips", "weight": 12 },
+        { "type": "minecraft:item", "name": "craftingdead:bandage", "weight": 12 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:screwdriver", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:can_opener", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:multi_tool", "weight": 3 },
+        { "type": "minecraft:item", "name": "craftingdead:m9_magazine", "weight": 3 },
+        { "type": "minecraft:item", "name": "craftingdead:p250_magazine", "weight": 3 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 18472639,
+    "spacing": 128,
+    "separation": 64
+  },
+  "structures": [
+    { "structure": "craftingdeadstructures:desert_site", "weight": 5 },
+    { "structure": "craftingdeadstructures:half_mountain_villa", "weight": 4 },
+    { "structure": "craftingdeadstructures:private_villa", "weight": 5 },
+    { "structure": "craftingdeadstructures:science_building", "weight": 2 },
+    { "structure": "craftingdeadstructures:seaside", "weight": 2 },
+    { "structure": "craftingdeadstructures:sky_island", "weight": 1 },
+    { "structure": "craftingdeadstructures:small_city", "weight": 1 },
+    { "structure": "craftingdeadstructures:small_restaurant", "weight": 10 },
+    { "structure": "craftingdeadstructures:stadium", "weight": 1 },
+    { "structure": "craftingdeadstructures:toad_house", "weight": 10 },
+    { "structure": "craftingdeadstructures:tree_house", "weight": 8 }
+  ]
+}

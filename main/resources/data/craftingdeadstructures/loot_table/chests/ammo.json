@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": { "type": "minecraft:uniform", "min": 3, "max": 6 },
+      "entries": [
+        { "type": "minecraft:item", "name": "craftingdead:m9_magazine", "weight": 18 },
+        { "type": "minecraft:item", "name": "craftingdead:g18_magazine", "weight": 16 },
+        { "type": "minecraft:item", "name": "craftingdead:p250_magazine", "weight": 16 },
+        { "type": "minecraft:item", "name": "craftingdead:mp5a5_35_round_magazine", "weight": 12 },
+        { "type": "minecraft:item", "name": "craftingdead:stanag_box_magazine", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdead:stanag_drum_magazine", "weight": 3 },
+        { "type": "minecraft:item", "name": "craftingdead:mossberg_shells", "weight": 10 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": { "type": "minecraft:uniform", "min": 4, "max": 8 },
+      "entries": [
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:water_bottle", "weight": 18 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:water_canteen", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:cola", "weight": 10 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:juice_pouch", "weight": 10 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:canned_beans", "weight": 14 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:canned_tuna", "weight": 12 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:cereal", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:chips", "weight": 12 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:mre", "weight": 3 }
+      ]
+    }
+  ]
+}

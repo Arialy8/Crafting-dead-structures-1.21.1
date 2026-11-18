@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": { "type": "minecraft:uniform", "min": 1, "max": 2 },
+      "entries": [
+        { "type": "minecraft:item", "name": "craftingdead:m9", "weight": 24 },
+        { "type": "minecraft:item", "name": "craftingdead:p250", "weight": 22 },
+        { "type": "minecraft:item", "name": "craftingdead:g18", "weight": 14 },
+        { "type": "minecraft:item", "name": "craftingdead:mp5a5", "weight": 9 },
+        { "type": "minecraft:item", "name": "craftingdead:mossberg", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdead:m4a1", "weight": 4 },
+        { "type": "minecraft:item", "name": "craftingdead:scarl", "weight": 3 }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "craftingdead:m9_magazine", "weight": 24 },
+        { "type": "minecraft:item", "name": "craftingdead:p250_magazine", "weight": 22 },
+        { "type": "minecraft:item", "name": "craftingdead:g18_magazine", "weight": 14 },
+        { "type": "minecraft:item", "name": "craftingdead:mp5a5_35_round_magazine", "weight": 9 },
+        { "type": "minecraft:item", "name": "craftingdead:mossberg_shells", "weight": 8 },
+        { "type": "minecraft:item", "name": "craftingdead:stanag_box_magazine", "weight": 7 }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [{ "condition": "minecraft:random_chance", "chance": 0.65 }],
+      "entries": [
+        { "type": "minecraft:item", "name": "craftingdead:bandage", "weight": 16 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:water_bottle", "weight": 14 },
+        { "type": "minecraft:item", "name": "craftingdeadsurvival:canned_beans", "weight": 10 },
+        { "type": "minecraft:item", "name": "craftingdead:first_aid_kit", "weight": 5 }
+      ]
+    }
+  ]
+}

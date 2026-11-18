@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "craftingdeadstructures:block/zombie_spawner_cage"
+    }
+  }
+}

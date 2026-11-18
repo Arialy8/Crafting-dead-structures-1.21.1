@@ -1,0 +1,14 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "craftingdeadstructures:private_villa",
+        "processors": "craftingdeadstructures:structure_randomization",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

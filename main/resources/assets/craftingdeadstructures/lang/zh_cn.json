@@ -1,0 +1,23 @@
+{
+  "block.craftingdeadstructures.zombie_spawner_cage": "行尸走肉僵尸刷怪笼",
+  "item.craftingdeadstructures.zombie_spawner_cage": "行尸走肉僵尸刷怪笼",
+  "block.craftingdeadstructures.civilian_loot_marker": "标记点：平民地面物资",
+  "block.craftingdeadstructures.medical_loot_marker": "标记点：医疗地面物资",
+  "block.craftingdeadstructures.police_loot_marker": "标记点：警用地面物资",
+  "block.craftingdeadstructures.rare_civilian_loot_marker": "标记点：稀有地面物资",
+  "block.craftingdeadstructures.military_loot_marker": "标记点：军用地面物资",
+  "block.craftingdeadstructures.zombie_spawner_marker": "标记点：普通刷怪笼",
+  "block.craftingdeadstructures.dangerous_zombie_spawner_marker": "标记点：危险刷怪笼",
+  "block.craftingdeadstructures.elite_zombie_spawner_marker": "标记点：精英刷怪笼",
+  "block.craftingdeadstructures.civilian_container_marker": "标记点：平民容器",
+  "block.craftingdeadstructures.medical_container_marker": "标记点：医疗容器",
+  "block.craftingdeadstructures.police_container_marker": "标记点：警用容器",
+  "block.craftingdeadstructures.military_container_marker": "标记点：军用容器",
+  "block.craftingdeadstructures.weapons_container_marker": "标记点：枪械容器",
+  "command.craftingdeadstructures.status": "Crafting Dead: Structure Generation 已启用。",
+  "command.craftingdeadstructures.list": "可用结构：%s",
+  "command.craftingdeadstructures.locate.invalid": "无效的结构名称：%s",
+  "command.craftingdeadstructures.place.missing": "找不到结构模板：%s",
+  "command.craftingdeadstructures.place.failed": "结构放置失败：%s",
+  "command.craftingdeadstructures.place.success": "已在 %2$s %3$s %4$s 放置结构 %1$s"
+}
